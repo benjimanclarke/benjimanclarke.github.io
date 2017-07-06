@@ -15,11 +15,11 @@ h1 {
 
 p {
 	font-family: 'Times New Roman';
-	font-size: 20px;
+	font-size: 23px;
 }
 
 .menu {
-	font-size: 20px;
+	font-size: 23px;
 	text-align: center;
 }
 
@@ -44,5 +44,31 @@ p {
 
 .menu a:hover {
 	background-color: whitesmoke;
-}lor: red;
+}
+
+.footer {
+	position: absolute;
+ right: 0;
+ bottom: 0;
+ left: 0;
+ padding: 5px;
+ background-color: red;
+	align-items: center;
+}
+
+.footer p {
+	font-size: 15px;
+	text-align: center;
+	display: inline;
+	color: white;
+}
+
+.footer-images {
+	text-align: right;
+	display: inline;
+}
+
+.footer-images img {
+	height: 30px;
+	width: 30px;
 }
