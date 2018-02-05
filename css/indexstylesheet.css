@@ -87,12 +87,12 @@ p {
 	color: white;
 }
 
-.footer-images {
+#footer-images {
 	text-align: right;
 	display: inline;
 }
 
-.footer-images img {
+#footer-images img {
 	height: 30px;
 	width: 30px;
 }
