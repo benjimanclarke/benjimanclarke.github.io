@@ -7,12 +7,7 @@
 #landing{
   background-color: #ffffff;
 }
-#landing img{
-  height: 400px;
-  width: 600px;
-  transform: rotate(-90deg);
-  margin: 10px;
-}
+
 #education{
   background-color: #9c9896;
 }
@@ -102,9 +97,19 @@ nav ul li a:hover{
 
 .content p{
   font-family: 'Major Mono Display', sans-serif;
-  text-align: left;
+  text-align: center;
   font-size: 20px;
   padding: 20px;
+  margin-top: auto;
+}
+
+.content img{
+  height: 400px;
+  width: 600px;
+  display: block;
+  transform: rotate(-90deg);
+  padding: 125px;
+  margin:auto;
 }
 
 #experience .content{
