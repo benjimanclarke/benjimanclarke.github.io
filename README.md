@@ -1,3 +1,4 @@
 # My Personal Website 
-This repo is a **Testing** repo for my personal website on github pages. 
-I just want a place to store it for ease of moving between different systems and version control for testing.
+This is where my own personal website that I am building from HTML and CSS.
+I am building and testing live so the website probably won't be fully functional all of the time.
+I am mostly developing offline line but I am commiting when new things are added for accurate version control.
