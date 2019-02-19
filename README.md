@@ -1,4 +1,3 @@
- # PersonalWebsite
-This website is getting a complete makeover.....
-It wiil be done using proper HTML/CSS/JS guidlines and best practises to improve my web developing skills.
-My landing page for the time being will be a single page containing a list of changes that I want to achieve.
+# My Personal Website 
+This repo is a **Testing** repo for my personal website on github pages. 
+I just want a place to store it for ease of moving between different systems and version control for testing.
